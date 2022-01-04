@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cristobal-dmg
-- 👀 I’m interested in Python!
-- 🌱 I’m currently learning Python basics!
-- 💞️ I’m looking to collaborate on IDK...
-- 📫 How to reach me ...
+- 👀 I’m interested in almost everything!
+- 🌱 I’m currently learning Java, Python, JavaScript, React, and a little React Native.
+- 💞️ I’m looking to collaborate on simple projects!
+- 📫 If you want to reach me shoot me a mail at cristobalreyes@icloud.com
 
 <!---
 Cristobal-dmg/Cristobal-dmg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
